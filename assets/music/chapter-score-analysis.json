@@ -1,0 +1,26 @@
+{
+  "moss_and_fireflies": {
+    "file": "moss_and_fireflies.wav",
+    "seconds": 80.0,
+    "peak_dbfs": -2.38,
+    "rms_dbfs": -14.86,
+    "quietest_second_dbfs": -17.9,
+    "loop_boundary_step": 0.000484
+  },
+  "steps_of_amber": {
+    "file": "steps_of_amber.wav",
+    "seconds": 96.0,
+    "peak_dbfs": -2.38,
+    "rms_dbfs": -15.53,
+    "quietest_second_dbfs": -19.22,
+    "loop_boundary_step": 0.001984
+  },
+  "a_path_through_stars": {
+    "file": "a_path_through_stars.wav",
+    "seconds": 73.846145,
+    "peak_dbfs": -2.38,
+    "rms_dbfs": -14.65,
+    "quietest_second_dbfs": -16.95,
+    "loop_boundary_step": 0.005424
+  }
+}
